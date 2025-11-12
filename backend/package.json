@@ -7,5 +7,10 @@
     "test": "npm start"
   },
   "author": "Shailendra Rai",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0",
+    "mongoose": "^8.19.3",
+    "nodemon": "^3.1.11"
+  }
 }
