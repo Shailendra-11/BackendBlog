@@ -17,7 +17,7 @@ const App = () => {
         },
         {
           index: "add",
-          element: <Add />,
+          element: <Add/>,
         },
         {
           path: "update",

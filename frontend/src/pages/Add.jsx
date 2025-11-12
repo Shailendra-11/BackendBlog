@@ -1,5 +1,4 @@
 import React from 'react'
-
 const Add = () => {
   return (
     <div className='w-full flex justify-center mt-5'>

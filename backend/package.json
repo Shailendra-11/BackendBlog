@@ -1,0 +1,11 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "this is my project for learn node.js express.js mogodb",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "author": "Shailendra Rai",
+  "license": "ISC"
+}
